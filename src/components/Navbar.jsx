@@ -29,11 +29,6 @@ export const Navbar = () => {
                   Features
                 </a>
               </li>
-              {/* <li className="nav-item">
-                <a className="nav-link active" href="#">
-                  Pricing
-                </a>
-              </li> */}
             </ul>
           </div>
         </div>

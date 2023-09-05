@@ -20,7 +20,6 @@ export default function RootLayout({ children }) {
           integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM"
           crossOrigin="anonymous"
         />
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"></script>
       </head>
       <body className={inter.className}>
         <div className="mx-auto">
@@ -33,6 +32,7 @@ export default function RootLayout({ children }) {
             studentId="650610775"
           />
         </div>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"></script>
       </body>
     </html>
   );

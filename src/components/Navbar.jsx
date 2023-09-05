@@ -29,11 +29,11 @@ export const Navbar = () => {
                   Features
                 </a>
               </li>
-              <li className="nav-item">
+              {/* <li className="nav-item">
                 <a className="nav-link active" href="#">
                   Pricing
                 </a>
-              </li>
+              </li> */}
             </ul>
           </div>
         </div>
